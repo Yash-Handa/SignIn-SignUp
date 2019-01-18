@@ -1,4 +1,10 @@
 # SignIn-SignUp
+
+![code size](https://img.shields.io/github/languages/code-size/Yash-Handa/SignIn-SignUp.svg?style=flat-square)
+![licence](https://img.shields.io/github/license/Yash-Handa/SignIn-SignUp.svg?style=flat-square)
+![dependencies](https://img.shields.io/david/Yash-Handa/SignIn-SignUp.svg?style=flat-square)
+![dev-dependencies](https://img.shields.io/david/dev/Yash-Handa/SignIn-SignUp.svg?style=flat-square)
+
 <div>
 <span align="left">
   <img alt="Tour" style="float: left" width="45%" title="Tour of the App" src="/readme content/tour.gif">
