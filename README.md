@@ -1,7 +1,6 @@
 # SignIn-SignUp
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/13578945c5e04c4ca9ed4660414f56d6)](https://app.codacy.com/app/yashhanda7/SignIn-SignUp?utm_source=github.com&utm_medium=referral&utm_content=Yash-Handa/SignIn-SignUp&utm_campaign=Badge_Grade_Dashboard)
-
 ![code size](https://img.shields.io/github/languages/code-size/Yash-Handa/SignIn-SignUp.svg?style=flat-square)
 ![licence](https://img.shields.io/github/license/Yash-Handa/SignIn-SignUp.svg?style=flat-square)
 ![dependencies](https://img.shields.io/david/Yash-Handa/SignIn-SignUp.svg?style=flat-square)
