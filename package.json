@@ -47,7 +47,7 @@
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
-    "eslint": "^5.15.1",
+    "eslint": "^5.15.2",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-watch": "^4.0.2",
