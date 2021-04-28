@@ -1,0 +1,19 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "23:30"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: nodemailer
+    versions:
+    - 6.4.17
+    - 6.4.18
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
+  - dependency-name: hbs
+    versions:
+    - 4.1.1
